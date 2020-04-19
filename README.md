@@ -1,5 +1,5 @@
 # 3dprinted-mask
-A workflow to produce a 3D printed respirator mask.
+Here ia workflow we developed to produce a 3D printed respirator mask.
 
 <p align="center">
    <img src="https://github.com/tbensky/3dprinted-mask/blob/master/button_hole_all4.jpeg">
@@ -7,7 +7,13 @@ A workflow to produce a 3D printed respirator mask.
 
 
 ## Disclaimer
-We do not know if this mask will protect you from either inhaling a contagious virus, or releasing one into the air yourself, upon exhaling, coughing or sneezing.
+A mask covering your face and nose can possibly do two things: 
+
+1. Firstly, a homemade masks is meant to protect other people from you. Should you sneeze or cough, something covering your mouth and nose will act to stop your expelled droplets from becoming airborne and possibly infecting someone else.  
+
+2. The second is harder to achieve, which is a mask that will prevent you from inhaling something contagious and airborne that you may encounter.
+
+We do not know if this mask does either. It is merely a workflow consisting of various resources we pulled from around the web. The evnetual mask seal is pretty good, to the point that your breathing action will be noticeably modified when wearing this mask. It will be clear that your inhaling and exhaling will mostly be forced through the filter material. What precise action the filter accomplishes ( 
 
 ### Part I:The Mask Parts
 To begin, download two files, the mask, and the filter holder. Print them both on a 3D printer. If you don’t have a 3D printer, or have thought about buying one, now is a great time.  We’d recommend [this one](https://shop.prusa3d.com/en/3d-printers/181-original-prusa-i3-mk3-3d-printer.html#) or [this one](https://shop.prusa3d.com/en/3d-printers/994-original-prusa-mini.html#).  
