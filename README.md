@@ -1,9 +1,7 @@
 # 3dprinted-mask
 A workflow to produce a 3D printed respirator mask
 
-<p align="center">
-  ![mask](button_hole_all4.jpeg)</center>
-</p>
+![mask](button_hole_all4.jpeg){ width="800" height="600" style="display: block; margin: 0 auto" }
 
 ## Disclaimer
 We do not know if this mask will protect you from either inhaling a contagious virus, or releasing one into the air yourself, upon exhaling, coughing or sneezing.
