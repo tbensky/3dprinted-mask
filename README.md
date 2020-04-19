@@ -40,6 +40,12 @@ Work one continuous piece of the tape into the inner perimeter of the mask, like
    <img src="https://github.com/tbensky/3dprinted-mask/blob/master/D-shape_start copy.JPG">
 </p>
 
+When done carefully match the two ends.
+
+<p align="center">
+   <img src="https://github.com/tbensky/3dprinted-mask/blob/master/D-done.JPG">
+</p>
+
 
 
 
