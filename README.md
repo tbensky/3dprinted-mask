@@ -1,9 +1,9 @@
 # 3dprinted-mask
 A workflow to produce a 3D printed respirator mask
 
-<center>
+<p align="center">
   <img src=https://github.com/tbensky/3dprinted-mask/blob/master/D-done.JPG>
-</center>
+</p>
 
 ## Disclaimer
 We do not know if this mask will protect you from either inhaling a contagious virus, or releasing one into the air yourself, upon exhaling, coughing or sneezing.
