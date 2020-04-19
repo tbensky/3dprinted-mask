@@ -129,6 +129,41 @@ We do both.
 
 Here’s vacuum cleaner bag,
 
+<p align="center">
+   <img src="https://github.com/tbensky/3dprinted-mask/blob/master/vac_bag.JPG">
+</p>
+
+which we cut it up into as many squares as we could, sized just a bit larger than the filter holder as shown here:
+
+<p align="center">
+   <img src="https://github.com/tbensky/3dprinted-mask/blob/master/filter_fit.JPG">
+</p>
+
+Note the fibrous side is down/outward, and paperish “bag” material is inward.
+
+### Part VII. All done
+
+Be safe out there!
+
+<p align="center">
+   <img src="https://github.com/tbensky/3dprinted-mask/blob/master/button_hole_all4.jpeg">
+</p>
+
+### Resources
+
+
+VII. Resources
+
+* [https://makethemasks.com](https://makethemasks.com)
+
+* [https://www.fixthemask.com](https://www.fixthemask.com)
+
+* [https://engineering.rowan.edu/research-centers/mask/index.html](https://www.fixthemask.com)
+
+
+
+
+
 
 
 
