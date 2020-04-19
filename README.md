@@ -119,13 +119,13 @@ If you do not have an N95 mask, HEPA vacuum cleaner bags work well for this, as 
    <img src="https://github.com/tbensky/3dprinted-mask/blob/master/kenmore.JPG">
 </p>
 
-A virus however, is <1 micrometer, so we’ll have to do better. HEPA vacuum cleaner bags like these:
+A virus however, is <1 micrometer, so we’ll have to do better. HEPA vacuum cleaner bags like these
 
 <p align="center">
    <img src="https://github.com/tbensky/3dprinted-mask/blob/master/meile_filters.JPG">
 </p>
 
-HEPA filters claim to filter to this level, and they’re [widely available](https://www.bedbathandbeyond.com/store/product/miele-airclean-fjm-dustbag/1016438286?keyword=meile-baggs).  It turns out that N95 masks and these HEPA vacuum cleaner bags seem to be made from similar materials as shown [here](https://youtu.be/ZWkLqJrjWe8).  
+claim to filter to this level, and they’re [widely available](https://www.bedbathandbeyond.com/store/product/miele-airclean-fjm-dustbag/1016438286?keyword=meile-baggs).  It turns out that N95 masks and these HEPA vacuum cleaner bags seem to be made from similar materials as shown [here](https://youtu.be/ZWkLqJrjWe8).  
 
 There is more debate out there, as some air filter bags can be made of fiberglass, the fibers of which you don’t want to breathe.  The Miele bags above appear to be made from polymer fibers (i.e. not glass), but you still don’t want to breathe them.  You can ease concerns in this way: 
 
