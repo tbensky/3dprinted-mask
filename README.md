@@ -11,3 +11,5 @@ To begin, download two files, the mask, and the filter holder. Print them both o
 
 For printing, PLA material is fine with 10% infill. If the mask is sliced with the front square (“air in”) side down, no supports will be needed.  Combine the filter holder and mask in the same print job (arrange them on the build plate in the slicer software). It’ll take about 7 hours to complete. The default size is large. Scale down (in your slicer) to 90% for medium and 80% for small. Here’s what you’ll get.
 
+![3dresult](mask800.jpg)
+
