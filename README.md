@@ -72,7 +72,46 @@ It goes into the mask like this:
    <img src="https://github.com/tbensky/3dprinted-mask/blob/master/button_hole.jpeg">
 </p>
 
+In case you don’t know what “button-hole” elastic is (we didn’t), it’s elastic with evenly spaced slits cut it in, like this:
 
+<p align="center">
+   <img src="https://github.com/tbensky/3dprinted-mask/blob/master/button_hole.JPG">
+</p>
+
+With the T-shaped adaptor and the button hole elastic, attachment and adjustment is very easy.  (You’ll need four adapters that fit into the mask’s existing holes (with a dab of super glue or hot glue from a glue gun) to hold them.  This will be an additional 3D print job, with a print of 4 of them taking 45 min. No supports are needed, and we used 10% infill..
+
+
+
+### Part VI: Filter
+This is the part with the most debate out there: what material to use as a filter. Whatever you use, you only need a piece a bit larger than the plastic filter holder, like this:
+
+<p align="center">
+   <img src="https://github.com/tbensky/3dprinted-mask/blob/master/filter_fit.JPG">
+</p>
+
+It’ll push firmly into the opening, from inside the mask like this:
+
+<p align="center">
+   <img src="https://github.com/tbensky/3dprinted-mask/blob/master/filter_fit_mask.JPG">
+</p>
+
+#### Filter Materials
+
+Here’s what we’ve learned about materials.
+
+N95. Ideally, you’d like to use some N95 material, but this is in short supply. If you have a mask made of N95, you can cut up the mask and get many uses out of the material itself, instead of just one (one use per medical mask).
+
+No N95? It turns out that HEPA vacuum cleaner bags work well for this, as outlined [here](https://smartairfilters.com/en/blog/best-materials-make-diy-face-mask-virus/) (see graphs) and [here](https://www.ncbi.nlm.nih.gov/pubmed/24229526). You can start with common bags like this one, which claims to filter down to 2 micrometers.
+
+<p align="center">
+   <img src="https://github.com/tbensky/3dprinted-mask/blob/master/kenmore.JPG">
+</p>
+
+A virus however, is <1 micrometer, so we’ll have to do better. HEPA vacuum cleaner bags like these:
+
+<p align="center">
+   <img src="https://github.com/tbensky/3dprinted-mask/blob/master/meile_filters.JPG">
+</p>
 
 
 
