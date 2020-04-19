@@ -119,7 +119,9 @@ There is more debate out there, as some air filter bags can be made of fiberglas
 
 * Add a layer of cotton material (T-shirt, bandana, etc.) or some of the 2 micron vacuum cleaner filter.. These are to be added on the “mouth side” of the filter assembly. Here’s a layer of the 2 micron material being peeled away from the bag:
 
-
+<p align="center">
+   <img src="https://github.com/tbensky/3dprinted-mask/blob/master/2micron.JPG">
+</p>
 
 
 
