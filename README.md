@@ -1,5 +1,5 @@
 # 3dprinted-mask
-Here ia workflow we developed to produce a 3D printed respirator mask.
+Here is workflow we developed to produce a 3D printed respirator mask.
 
 <p align="center">
    <img src="https://github.com/tbensky/3dprinted-mask/blob/master/button_hole_all4.jpeg">
