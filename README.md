@@ -123,6 +123,13 @@ There is more debate out there, as some air filter bags can be made of fiberglas
    <img src="https://github.com/tbensky/3dprinted-mask/blob/master/2micron.JPG">
 </p>
 
+* Be sure the fibrous side of the HEPA filter faces outward on your mask, and the smooth bag side faces inward, toward your mouth.
+
+We do both. 
+
+Here’s vacuum cleaner bag,
+
+
 
 
 
