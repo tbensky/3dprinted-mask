@@ -63,13 +63,13 @@ Next, decide how you want to attach the mask to your face.  You can tie elastic 
 We found the masks hard to adjust this way, so we made a T-shaped add-on that allows one to use button-hole elastic. Here’s the adapter (design file [here](https://www.thingiverse.com/thing:4283952)):
 
 <p align="center">
-   <img src="https://github.com/tbensky/3dprinted-mask/blob/master/T320.jpg">
+   <img src="https://github.com/tbensky/3dprinted-mask/blob/master/T320.jpeg">
 </p>
 
 It goes into the mask like this:
 
 <p align="center">
-   <img src="https://github.com/tbensky/3dprinted-mask/blob/master/butto_hole.jpg">
+   <img src="https://github.com/tbensky/3dprinted-mask/blob/master/button_hole.jpg">
 </p>
 
 
