@@ -69,7 +69,7 @@ We found the masks hard to adjust this way, so we made a T-shaped add-on that al
 It goes into the mask like this:
 
 <p align="center">
-   <img src="https://github.com/tbensky/3dprinted-mask/blob/master/button_hole.jpg">
+   <img src="https://github.com/tbensky/3dprinted-mask/blob/master/button_hole.jpeg">
 </p>
 
 
