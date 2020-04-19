@@ -152,8 +152,6 @@ Be safe out there!
 ### Resources
 
 
-VII. Resources
-
 * [https://makethemasks.com](https://makethemasks.com)
 
 * [https://www.fixthemask.com](https://www.fixthemask.com)
