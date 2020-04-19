@@ -139,6 +139,8 @@ There is more debate out there, as some air filter bags can be made of fiberglas
 
 We do both. 
 
+#### Filter installation
+
 Here’s vacuum cleaner bag,
 
 <p align="center">
@@ -151,7 +153,13 @@ which we cut it up into as many squares as we could, sized just a bit larger tha
    <img src="https://github.com/tbensky/3dprinted-mask/blob/master/filter_fit.JPG">
 </p>
 
-Note the fibrous side is down/outward, and paperish “bag” material is inward.
+Note the fibrous side is down/outward, and paperish “bag” material is inward. You push the wrapped filter holder into the mask as shown here:
+
+<p align="center">
+   <img src="https://github.com/tbensky/3dprinted-mask/blob/master/filter_fit_mask.JPG">
+</p>
+
+
 
 ### Part VII. All done
 
