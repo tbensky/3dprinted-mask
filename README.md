@@ -95,7 +95,7 @@ With the T-shaped adaptor and the button hole elastic, attachment and adjustment
 
 
 ### Part VI: Filter
-This is the part with the most debate out there: what material to use as a filter. Whatever you use, you only need a piece a bit larger than the plastic filter holder, like this:
+This is the part with the most debate out there: what material to use as a filter. Whatever you use, you only need a piece a bit larger than the plastic filter holder you printed, like this:
 
 <p align="center">
    <img src="https://github.com/tbensky/3dprinted-mask/blob/master/filter_fit.JPG">
@@ -111,9 +111,9 @@ It’ll push firmly into the opening, from inside the mask like this:
 
 Here’s what we’ve learned about materials.
 
-N95. Ideally, you’d like to use some N95 material, but this is in short supply. If you have a mask made of N95, you can cut up the mask and get many uses out of the material itself, instead of just one (one use per medical mask).
+Ideally, you’d like to use some N95 material, but this is in short supply. If you have a mask made of N95, you can cut up the mask and get many uses out of the material itself, instead of just one (one use per medical mask).
 
-No N95? It turns out that HEPA vacuum cleaner bags work well for this, as outlined [here](https://smartairfilters.com/en/blog/best-materials-make-diy-face-mask-virus/) (see graphs) and [here](https://www.ncbi.nlm.nih.gov/pubmed/24229526). You can start with common bags like this one, which claims to filter down to 2 micrometers.
+If you do not have an N95 mask, HEPA vacuum cleaner bags work well for this, as outlined [here](https://smartairfilters.com/en/blog/best-materials-make-diy-face-mask-virus/) (see graphs) and [here](https://www.ncbi.nlm.nih.gov/pubmed/24229526). You can start with common bags like this one, which claims to filter down to 2 micrometers.
 
 <p align="center">
    <img src="https://github.com/tbensky/3dprinted-mask/blob/master/kenmore.JPG">
