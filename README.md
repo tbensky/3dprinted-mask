@@ -46,6 +46,17 @@ When done carefully match the two ends.
    <img src="https://github.com/tbensky/3dprinted-mask/blob/master/D-done.JPG">
 </p>
 
+### Part IV: Final Fitting
+Again place the mask in boiling water for 30 seconds or so, and push it firmly against your face.  Pinch all sides inward toward your nose and cheeks, so the mask is tight and snug, and also comfortable.  The adhesive on the weatherstrip will hold up in the hot water, but you might have to press the weatherstrip against the mask again, to firm it up again.
+
+Optional: When done, you can add a line of [silicon sealant](https://www.homedepot.com/p/DAP-Silicone-Max-2-8-oz-Clear-100-Premium-Kitchen-and-Bath-Silicone-Sealant-08794/301531803)in the small gap between the weatherseal and plastic.
+
+A standard test is to push the mask against your face, sealing the filter hole with your hand, then exhaling strongly, and noting any outward leaks under the seal.
+
+### Part V: Attachments
+Next, decide how you want to attach the mask to your face.  You can tie elastic to the holes, like this:
+
+
 
 
 
