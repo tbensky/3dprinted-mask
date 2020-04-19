@@ -39,7 +39,7 @@ Immerse the face side of the mask in boiling water for 30 seconds or so, as show
 Push the mask firmly against your face, and pinch it (lightly), mostly on the nose and cheek covers, so it loosely fits the contours of your face. Do not pinch it tightly at this point, as this is not the final fitting. Just adapt it somewhat to your face. The final seal is coming (below).
 
 ### Part III: Seal
-Get some 5/16” D-shape weatherseal tape (Home Depot link). Here’s some. You can see the “D” shape. The yellow strip is peeled away, exposing an adhesive layer.
+Get some 5/16” D-shape weatherseal tape ([Home Depot link](https://www.homedepot.com/p/Frost-King-5-16-in-x-1-4-in-x-17-ft-White-D-Center-EPDM-Medium-Gap-Weatherseal-Tape-V25WA/100017014)). Here’s some. You can see the “D” shape. The yellow strip is peeled away, exposing an adhesive layer.
 
 <p align="center">
    <img src=https://github.com/tbensky/3dprinted-mask/blob/master/D-shape.JPG>
