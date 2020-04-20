@@ -8,13 +8,13 @@ Here is workflow we developed to produce a 3D printed respirator mask.  This mas
 
 
 ## Disclaimer
->A homemade mask covering your face and nose can possibly do two things: 
+>It's common to think that a homemade mask covering your face and nose protects you from catching anything. This isn't necessarily true.  A mask, can possibly do two things: 
 
->1. Protect other people from you. Should you sneeze or cough, something covering your mouth and nose will act to stop your expelled droplets from becoming airborne and possibly infecting someone else.  
+>1. Protect other people from you. Should you sneeze or cough, something covering your mouth and nose will act to stop your expelled droplets from becoming airborne and possibly infecting someone else.  This is mostly what a homemade mask does.
 
 >2. Harder to achieve is a mask that will prevent you from inhaling something contagious and airborne that you may encounter.
 
->We do not know if this mask does either. It is merely a workflow consisting of various resources we pulled from around the web. The evnetual mask seal feels good, to the point that your breathing action will be noticeably modified when wearing the mask. It will be clear that your inhaling and exhaling will mostly be forced through the filter material. What precise action the filter accomplishes (1 or 2 above), we don't know. 
+>We do not know if this mask does either. It is merely a workflow consisting of various resources we pulled from around the Internet that results in a mask that you can wear and reuse. The eventual mask seal is pretty good, to the point that your breathing action will be noticeably modified when wearing the mask. It will be clear to you that your inhaling and exhaling will mostly be forced through the filter material. What precise action the filter accomplishes on 1 or 2 above, we don't know. 
 
 ---
 
@@ -36,7 +36,9 @@ Immerse the face side of the mask in boiling water for 30 seconds or so, as show
    <img src=https://github.com/tbensky/3dprinted-mask/blob/master/mask_water.JPG>
 </p>
 
-Push the mask firmly against your face, and pinch it (lightly), mostly on the nose and cheek covers, so it loosely fits the contours of your face. Do not pinch it tightly at this point, as this is not the final fitting. Just adapt it somewhat to your face. The final seal is coming (below).
+This won't melt the plastic (you'll need 215C for PLA) but will make it nice and soft and bendable.
+
+Push the mask firmly against your face, and pinch it (lightly), mostly around your nose and cheeks, so it loosely fits the contours of your face. Do not pinch it tightly at this point, as this is not the final fitting. Just adapt it somewhat to your face. The final seal is coming (below).
 
 ### Part III: Seal
 Get some 5/16” D-shape weatherseal tape ([Home Depot link](https://www.homedepot.com/p/Frost-King-5-16-in-x-1-4-in-x-17-ft-White-D-Center-EPDM-Medium-Gap-Weatherseal-Tape-V25WA/100017014)). Here’s some. You can see the “D” shape. The yellow strip is peeled away, exposing an adhesive layer.
@@ -61,9 +63,9 @@ When done carefully match the two ends.
 ### Part IV: Final Fitting
 Again place the mask in boiling water for 30 seconds or so, and push it firmly against your face.  Pinch all sides inward toward your nose and cheeks, so the mask is tight and snug, and also comfortable.  The adhesive on the weatherstrip will hold up in the hot water, but you might have to press the weatherstrip against the mask again, to firm it up again.
 
-Optional: When done, you can add a line of [silicon sealant](https://www.homedepot.com/p/DAP-Silicone-Max-2-8-oz-Clear-100-Premium-Kitchen-and-Bath-Silicone-Sealant-08794/301531803)in the small gap between the weatherseal and plastic.
+Optional: When done, you can add a line of [silicon sealant](https://www.homedepot.com/p/DAP-Silicone-Max-2-8-oz-Clear-100-Premium-Kitchen-and-Bath-Silicone-Sealant-08794/301531803) in the small gap between the weatherseal and plastic.
 
-A standard test is to push the mask against your face, sealing the filter hole with your hand, then exhaling strongly, and noting any outward leaks under the seal.
+A [standard test](https://youtu.be/CVjGCPfRwUo) is to push the mask against your face, sealing the filter hole with your hand, then exhaling strongly, and noting any outward leaks under the seal.
 
 ### Part V: Attachments
 Next, decide how you want to attach the mask to your face.  You can tie elastic to the holes, like this:
@@ -111,9 +113,9 @@ It’ll push firmly into the opening, from inside the mask like this:
 
 Here’s what we’ve learned about materials.
 
-Ideally, you’d like to use some N95 material, but this is in short supply. If you have a mask made of N95, you can cut up the mask and get many uses out of the material itself, instead of just one (one use per medical mask).
+Ideally, you’d like to use some N95 material, but this is in short supply. If you have a mask made of N95, you can cut up the mask and get many uses out of the material itself (as an insert for this mask), instead of just one (one use per medical mask).
 
-If you do not have an N95 mask, HEPA vacuum cleaner bags work well for this, as outlined [here](https://smartairfilters.com/en/blog/best-materials-make-diy-face-mask-virus/) (see graphs) and [here](https://www.ncbi.nlm.nih.gov/pubmed/24229526). You can start with common bags like this one, which claims to filter down to 2 micrometers.
+If you do not have an N95 mask, vacuum cleaner bags work well for this, as outlined [here](https://smartairfilters.com/en/blog/best-materials-make-diy-face-mask-virus/) (see graphs) and [here](https://www.ncbi.nlm.nih.gov/pubmed/24229526). You can start with common bags like this one, which claims to filter down to 2 micrometers.
 
 <p align="center">
    <img src="https://github.com/tbensky/3dprinted-mask/blob/master/kenmore.JPG">
@@ -125,11 +127,11 @@ A virus however, is <1 micrometer, so we’ll have to do better. HEPA vacuum cle
    <img src="https://github.com/tbensky/3dprinted-mask/blob/master/meile_filters.JPG">
 </p>
 
-claim to filter to this level, and they’re [widely available](https://www.bedbathandbeyond.com/store/product/miele-airclean-fjm-dustbag/1016438286?keyword=meile-baggs).  It turns out that N95 masks and these HEPA vacuum cleaner bags seem to be made from similar materials as shown [here](https://youtu.be/ZWkLqJrjWe8).  
+claim to filter to this level, and they’re [available](https://www.bedbathandbeyond.com/store/product/miele-airclean-fjm-dustbag/1016438286?keyword=meile-baggs).  It turns out that N95 masks and these HEPA vacuum cleaner bags seem to be made from similar materials as shown [here](https://youtu.be/ZWkLqJrjWe8).  
 
-There is more debate out there, as some air filter bags can be made of fiberglass, the fibers of which you don’t want to breathe.  The Miele bags above appear to be made from polymer fibers (i.e. not glass), but you still don’t want to breathe them.  You can ease concerns in this way: 
+There is more debate out there, as some air filter bags can be made of fiberglass, the fibers of which you don’t want to inhale.  The Miele bags above appear to be made from polymer fibers (i.e. not glass), but you still don’t want to breathe them.  You can ease concerns in this way: 
 
-* Add a layer of cotton material (T-shirt, bandana, etc.) or some of the 2 micron vacuum cleaner filter.. These are to be added on the “mouth side” of the filter assembly. Here’s a layer of the 2 micron material being peeled away from the bag:
+* Add a layer of cotton material (T-shirt, bandana, etc.) or some of the 2 micron vacuum cleaner filter around the HEPA filter. These are to be added on the “mouth side” of the filter assembly. Here’s a layer of the 2 micron material being peeled away from the bag:
 
 <p align="center">
    <img src="https://github.com/tbensky/3dprinted-mask/blob/master/2micron.JPG">
@@ -176,7 +178,7 @@ Be safe out there!
 
 * [https://www.fixthemask.com](https://www.fixthemask.com)
 
-* [https://engineering.rowan.edu/research-centers/mask/index.html](https://www.fixthemask.com)
+* [https://engineering.rowan.edu/research-centers/mask/index.html](https://engineering.rowan.edu/research-centers/mask/index.html)
 
 
 
