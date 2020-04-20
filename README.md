@@ -36,12 +36,12 @@ Immerse the face side of the mask in boiling water for 30 seconds or so, as show
    <img src=https://github.com/tbensky/3dprinted-mask/blob/master/mask_water.JPG>
 </p>
 
-This won't melt the plastic (you'll need 215C for PLA) but will make it nice and soft and bendable.
+This won't melt the plastic (you'll need 215C for PLA, boiling water is 100C) but will make it soft and bendable.
 
-Push the mask firmly against your face, and pinch it (lightly), mostly around your nose and cheeks, so it loosely fits the contours of your face. Do not pinch it tightly at this point, as this is not the final fitting. Just adapt it somewhat to your face. The final seal is coming (below).
+Push the mask lightly against your face, and pinch it (lightly), mostly around your nose and cheeks, so it loosely fits the contours of your face. Do not pinch it tightly at this point, as this is not the final fitting. Just adapt it somewhat to your face. The final seal is coming (below).
 
 ### Part III: Seal
-Get some 5/16” D-shape weatherseal tape ([Home Depot link](https://www.homedepot.com/p/Frost-King-5-16-in-x-1-4-in-x-17-ft-White-D-Center-EPDM-Medium-Gap-Weatherseal-Tape-V25WA/100017014)). Here’s some. You can see the “D” shape. The yellow strip is peeled away, exposing an adhesive layer.
+Get some 5/16” D-shape weatherseal tape ([Home Depot link](https://www.homedepot.com/p/Frost-King-5-16-in-x-1-4-in-x-17-ft-White-D-Center-EPDM-Medium-Gap-Weatherseal-Tape-V25WA/100017014)). Here’s what it looks like. You can see the “D” shape. The yellow strip is peeled away, exposing an adhesive layer. Use a rubber seal like this stuff, not a foam one.
 
 <p align="center">
    <img src=https://github.com/tbensky/3dprinted-mask/blob/master/D-shape.JPG>
@@ -61,11 +61,15 @@ When done carefully match the two ends.
 </p>
 
 ### Part IV: Final Fitting
-Again place the mask in boiling water for 30 seconds or so, and push it firmly against your face.  Pinch all sides inward toward your nose and cheeks, so the mask is tight and snug, and also comfortable.  The adhesive on the weatherstrip will hold up in the hot water, but you might have to press the weatherstrip against the mask again, to firm it up again.
+Again place the mask in boiling water for 30 seconds or so, and now push it firmly against your face.  Pinch all sides inward toward your nose and cheeks, so the mask is tight and snug, and also comfortable.  The adhesive on the weatherstrip will hold up in the hot water, but you might have to press the weatherstrip against the mask again, to firm it up again.
 
 Optional: When done, you can add a line of [silicon sealant](https://www.homedepot.com/p/DAP-Silicone-Max-2-8-oz-Clear-100-Premium-Kitchen-and-Bath-Silicone-Sealant-08794/301531803) in the small gap between the weatherseal and plastic.
 
-A [standard test](https://youtu.be/CVjGCPfRwUo) is to push the mask against your face, sealing the filter hole with your hand, then exhaling strongly, and noting any outward leaks under the seal.
+#### Tests
+
+* As noted in [this video](https://youtu.be/CVjGCPfRwUo), a standard test is to push the mask against your face, sealing the filter hole with your hand, then exhaling strongly, and noting any outward leaks under the seal.
+
+* Once sealed, you can try sniffing common scents and see how the mask performs.  Examples: extingish a candle, a perfume mist, cooking smells, etc. We could still smell most things (less so though) both with this mask and a professional surgical mask.
 
 ### Part V: Attachments
 Next, decide how you want to attach the mask to your face.  You can tie elastic to the holes, like this:
@@ -92,7 +96,7 @@ In case you don’t know what “button-hole” elastic is (we didn’t), it’s
    <img src="https://github.com/tbensky/3dprinted-mask/blob/master/button_hole.JPG">
 </p>
 
-With the T-shaped adaptor and the button hole elastic, attachment and adjustment is very easy.  (You’ll need four adapters that fit into the mask’s existing holes (with a dab of super glue or hot glue from a glue gun) to hold them.  This will be an additional 3D print job, with a print of 4 of them taking 45 min. No supports are needed, and we used 10% infill..
+With the T-shaped adaptor and the button hole elastic, attachment and adjustment is very easy.  You’ll need four such adapters that fit into the mask’s existing holes (with a dab of super glue or hot glue from a glue gun) to hold them.  This will be an additional 3D print job, with a print of 4 of them taking 45 min. No supports are needed, and we used 10% infill.
 
 
 
@@ -115,7 +119,7 @@ Here’s what we’ve learned about materials.
 
 Ideally, you’d like to use some N95 material, but this is in short supply. If you have a mask made of N95, you can cut up the mask and get many uses out of the material itself (as an insert for this mask), instead of just one (one use per medical mask).
 
-If you do not have an N95 mask, vacuum cleaner bags work well for this, as outlined [here](https://smartairfilters.com/en/blog/best-materials-make-diy-face-mask-virus/) (see graphs) and [here](https://www.ncbi.nlm.nih.gov/pubmed/24229526). You can start with common bags like this one, which claims to filter down to 2 micrometers.
+If you do not have an N95 mask, vacuum cleaner bags will work for this, as outlined [here](https://smartairfilters.com/en/blog/best-materials-make-diy-face-mask-virus/) (see graphs) and [here](https://www.ncbi.nlm.nih.gov/pubmed/24229526). You can start with common bags like this one, which claims to filter down to 2 micrometers.
 
 <p align="center">
    <img src="https://github.com/tbensky/3dprinted-mask/blob/master/kenmore.JPG">
