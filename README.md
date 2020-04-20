@@ -29,6 +29,11 @@ For printing, PLA material is fine with 10% infill. If the mask is sliced with t
    <img src=https://github.com/tbensky/3dprinted-mask/blob/master/mask800.JPG>
 </p>
 
+
+If you are concerned with the "porosity" of 3D printed parts, you can seal the mask with some silicon sealant (spray? paint on liquid?)
+
+In use, the mask may be washed or wiped with bleach wipes.
+
 ### Part II: Fitting the mask
 Immerse the face side of the mask in boiling water for 30 seconds or so, as shown here.
 
