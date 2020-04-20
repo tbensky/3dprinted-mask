@@ -10,9 +10,9 @@ Here is workflow we developed to produce a 3D printed respirator mask.  This mas
 ## Disclaimer
 >It's common to think that a homemade mask covering your face and nose protects you from catching anything. This isn't necessarily true.  A mask, can possibly do two things: 
 
->1. Protect other people from you. Should you sneeze or cough, something covering your mouth and nose will act to stop your expelled droplets from becoming airborne and possibly infecting someone else.  This is mostly what a homemade mask does.
+>1. Protect other people from you. Should you sneeze or cough, something covering your mouth and nose will act to stop your expelled droplets from becoming airborne and possibly being inhaled by someone else.  This is mostly what a homemade mask does.
 
->2. Harder to achieve is a mask that will prevent you from inhaling something contagious and airborne that you may encounter.
+>2. It is harder to achieve a mask that will prevent you from inhaling something airborne that you may encounter.
 
 >We do not know if this mask does either. This project is a workflow consisting of various resources we pulled from around the Internet that results in a mask that you can wear and reuse. The eventual mask seal is pretty good, to the point that your breathing action will be noticeably modified when wearing the mask. It will be clear to you that your inhaling and exhaling will mostly be forced through the filter material. What precise action the filter accomplishes on 1 or 2 above, we don't know. 
 
