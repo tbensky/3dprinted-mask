@@ -14,7 +14,7 @@ Here is workflow we developed to produce a 3D printed respirator mask.  This mas
 
 >2. Harder to achieve is a mask that will prevent you from inhaling something contagious and airborne that you may encounter.
 
->We do not know if this mask does either. It is merely a workflow consisting of various resources we pulled from around the Internet that results in a mask that you can wear and reuse. The eventual mask seal is pretty good, to the point that your breathing action will be noticeably modified when wearing the mask. It will be clear to you that your inhaling and exhaling will mostly be forced through the filter material. What precise action the filter accomplishes on 1 or 2 above, we don't know. 
+>We do not know if this mask does either. This project is a workflow consisting of various resources we pulled from around the Internet that results in a mask that you can wear and reuse. The eventual mask seal is pretty good, to the point that your breathing action will be noticeably modified when wearing the mask. It will be clear to you that your inhaling and exhaling will mostly be forced through the filter material. What precise action the filter accomplishes on 1 or 2 above, we don't know. 
 
 ---
 
