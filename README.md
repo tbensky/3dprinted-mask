@@ -70,11 +70,6 @@ Again place the mask in boiling water for 30 seconds or so, and now push it firm
 
 Optional: When done, you can add a line of [silicon sealant](https://www.homedepot.com/p/DAP-Silicone-Max-2-8-oz-Clear-100-Premium-Kitchen-and-Bath-Silicone-Sealant-08794/301531803) in the small gap between the weatherseal and plastic.
 
-#### Tests
-
-* As noted in [this video](https://youtu.be/CVjGCPfRwUo), a standard test is to push the mask against your face, sealing the filter hole with your hand, then exhaling strongly, and noting any outward leaks under the seal.
-
-* Once sealed, you can try sniffing common scents and see how the mask performs.  Examples: extingish a candle, a perfume mist, cooking smells, etc. We could still smell most things (less so though) both with this mask and a professional surgical mask.
 
 ### Part V: Attachments
 Next, decide how you want to attach the mask to your face.  You can tie elastic to the holes, like this:
@@ -171,14 +166,20 @@ Note the fibrous side is down/outward, and paperish “bag” material is inward
 </p>
 
 
-
-### Part VII. All done
-
-Be safe out there!
+### Part VII: All done
 
 <p align="center">
    <img src="https://github.com/tbensky/3dprinted-mask/blob/master/button_hole_all4.jpeg">
 </p>
+
+
+### Part VIII: Tests
+
+* As noted in [this video](https://youtu.be/CVjGCPfRwUo), a standard test is to push the mask against your face, sealing the filter hole with your hand, then exhaling strongly, and noting any outward leaks under the seal. Adjust as needed, including warming to morph the plastic.
+
+* Once sealed, you can try sniffing common scents and see how the mask performs.  Examples: extingish a candle, a perfume mist, cooking smells, etc. We could still smell most things (less so though) both with this mask and a professional surgical mask, noting that these are intense concentrations of smells.
+
+
 
 ### Resources
 
