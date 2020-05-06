@@ -179,6 +179,16 @@ Note the fibrous side is down/outward, and paperish “bag” material is inward
 
 * Once sealed, you can try sniffing common scents and see how the mask performs.  Examples: extingish a candle, a perfume mist, cooking smells, etc. We could still smell most things (less so though) both with this mask and a professional surgical mask, noting that these are intense concentrations of smells.
 
+### CO2 tests
+
+
+<p align="center">
+   <img src="https://github.com/tbensky/3dprinted-mask/blob/master/Images/printed.png">
+</p>
+
+<p align="center">
+   <img src="https://github.com/tbensky/3dprinted-mask/blob/master/Images/fabric.png">
+</p>
 
 
 ### Resources
