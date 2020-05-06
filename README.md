@@ -182,7 +182,16 @@ Note the fibrous side is down/outward, and paperish “bag” material is inward
 ### CO2 tests
 
 An <a href=https://www.sparkfun.com/products/15112>SCD30 CO2 sensor</a> was installed inside of the mask while it was being worn.  Normal breathing while in the sitting position was done
-for about 250 seconds, for both the 3D printed mask, and the N95 mask. The results are shown here.
+for about 250 seconds, for both the 3D printed mask, and the N95 mask. 
+
+<p align="center">
+   <img src="https://github.com/tbensky/3dprinted-mask/blob/master/Images/sensor_mask.jpg">
+</p>
+
+
+
+
+CO2 concenctration as a function of time are shown here.
 
 <p align="center">
    <img src="https://github.com/tbensky/3dprinted-mask/blob/master/Images/co2_both.png">
