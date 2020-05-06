@@ -185,7 +185,7 @@ An <a href=https://www.sparkfun.com/products/15112>SCD30 CO2 sensor</a> was inst
 for about 250 seconds, for both the 3D printed mask, and the N95 mask. 
 
 <p align="center">
-   <img src="https://github.com/tbensky/3dprinted-mask/blob/master/Images/sensor_mask.jpg">
+   <img src="https://github.com/tbensky/3dprinted-mask/blob/master/Images/mask_sensor.jpg">
 </p>
 
 
